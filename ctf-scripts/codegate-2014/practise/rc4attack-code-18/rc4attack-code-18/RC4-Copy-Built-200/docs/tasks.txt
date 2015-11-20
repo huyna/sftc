@@ -1,0 +1,30 @@
+Hi,
+Here is the work plan:
+Top priority - complete RECURSIVE_SUBROUTINE. two parts of it need finishing:
+(1) the special case of (t==1) which means were at the end of the subroutines
+ search...
+(2) the selection of the next guess - at the middle of the function, 
+next to the "for" loop. (ignore the "for" loop for next guess or use it - 
+as you will. the algo will work without the loop, but probably not successfuly)
+
+let me know on which of these (1) or (2) you work first because 
+I might have time to work on it tomorrow too.
+
+I've updated the notes in RECURSIVE_SUBROUTINE completely - 
+please read all of them along side with the description of RECURSIVE_SUBROUTINE
+ in the article.
+also it is highly advised to understand section 4.2 in order to understand 
+the simplest method to implement the above. pay attention to the modulus nature 
+of sums = i.e more than one sum of bytes in K corresponds to the same set of 
+bytes in the key (example start of section 4.2).
+
+Secondary priority - complete FIND_KEY
+(+) nothing much to do here - make the call to REC... 
+and see if we get results.
+
+Three: we need to find a good (=fast and easy to use) matrix solving library 
+- I know of boost for C++ though I'm not sure how useful it is. Intel has IPP 
+for C that probably supports this, but I'm not sure if it's free. We have this: 
+http://en.wikipedia.org/wiki/List_of_numerical_libraries as a source for ideas.
+
+Gal

@@ -1,0 +1,7 @@
+Some random notes regarding the compilation of this project
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* when using gcc you need to enable c99 with -std=c99
+* GLOBALFUNC is a nickname for extern, for future reference. use only when the interface should be exposed
+* we will later want to compile algo.c (and its future children) as a shared library
+* RC4 implementation should also go into a shared library (RC4 impl should expose an interface for getting S as well)
+* main / attack will link against the shared libraries

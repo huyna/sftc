@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_76 (Oracle Corporation)
+
+Name: it/polimi/necst/johncakedesigner/NewYorkCheeseCake.class
+SHA1-Digest: lhQ9RB5Bgj49ISPMYJ2tD0PTXeQ=
+

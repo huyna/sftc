@@ -1,0 +1,846 @@
+C:\Python27\python.exe C:/Users/HuyNA/PycharmProjects/gits-2014/31c3/31c3.py
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140187466001808
+
+hex: 0x7f7ff01ced90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400500 0
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 7232623154636483684
+hex: 0x645f7070665f6c64
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140173229960592
+
+hex: 0x7f7c9f942d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400508 1
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 8316297344113272421
+hex: 0x73696c5f72656665
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 139720598257040
+
+hex: 0x7f133ca07d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400510 2
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 6845598377626828916
+hex: 0x5f00737475700074
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 139673473944976
+
+hex: 0x7f0843cc8d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400518 3
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 6877120215984661599
+hex: 0x5f7070665f6c645f
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 139837205192080
+
+hex: 0x7f2e62f11d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400520 4
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 7959372887150065005
+hex: 0x6e755f786574756d
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140651619700112
+
+hex: 0x7fec01d44d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400528 5
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 7238536946730102636
+hex: 0x647473006b636f6c
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140500285595024
+
+hex: 0x7fc8c59d1d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400530 6
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 8031169879979617897
+hex: 0x6f74727473006e69
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 139767689096592
+
+hex: 0x7f1e3375ad90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400538 7
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 8388368157735152748
+hex: 0x746978655f006c6c
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 139671589617040
+
+hex: 0x7f07d37bfd90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400540 8
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 28838465188818944
+hex: 0x66746e69727000
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 139945056628112
+
+hex: 0x7f477f636d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400548 9
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 7306921072503385453
+hex: 0x6567660070616d6d
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 139859713633680
+
+hex: 0x7f33a08cad90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400550 10
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 6875981091866440564
+hex: 0x5f6c645f5f007374
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140492483141008
+
+hex: 0x7fc6f48d1d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400558 11
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 7595150838485512294
+hex: 0x696765725f707066
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140428472458640
+
+hex: 0x7fb80d379d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400560 12
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 32777993925389935
+hex: 0x7473696c5f6e6f
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140170988924304
+
+hex: 0x7f7c1a00ad90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400568 13
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140390705376656
+
+hex: 0x7faf421fad90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400570 14
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 8026668473157778025
+hex: 0x6f64747300657a69
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 139990675361168
+
+hex: 0x7f521e7a0d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400578 15
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 8390050458005173365
+hex: 0x746f72706d007475
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140456774217104
+
+hex: 0x7fbea4222d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400580 16
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 7882832535266550629
+hex: 0x6d65726d00746365
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 139675521125776
+
+hex: 0x7f08bdd20d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400588 17
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 7091318245143113825
+hex: 0x62696c5f5f007061
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 139837371407760
+
+hex: 0x7f2e6cd95d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400590 18
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 6878248293792702307
+hex: 0x5f74726174735f63
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140440516017552
+
+hex: 0x7fbadb11bd90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x400598 19
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 7448776764151128429
+hex: 0x675f5f006e69616d
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 140169274133904
+
+hex: 0x7f7bb3cb0d90
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+===========================================================
+0x4005a0 20
+Linux 31c3ctf-cfy 3.16.0-28-generic #38-Ubuntu SMP Fri Dec 12 17:37:40 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+
+Please enter your number: 
+dec: 8241996831935852397
+hex: 0x726174735f6e6f6d
+
+What do you want to do?
+0) parse from hex
+1) parse from dec
+2) parse from pointer
+3) quit
+
+=============================        END ==================
+
+Process finished with exit code 0

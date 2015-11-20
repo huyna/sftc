@@ -1,0 +1,12 @@
+# Embedded file name: <string>
+from hashlib import sha1
+from os import getenv
+if getenv('NO_CON_NAME', '') == 'Y':
+    flag = ' 57 68 61 74 20 69 73 20 74 68 65 20 61 69 72 2d '
+    flag += ' 73 70 65 65 64 20 76 65 6c 6f 63 69 74 79 20 6f '
+    flag += ' 66 20 61 6e 20 75 6e 6c 61 64 65 6e 20 73 77 61 '
+    flag += ' 6c 6c 6f 77 3f '
+    flag = flag.replace(' ', '')
+    flag = flag.decode('hex')
+    flag = 'NCN' + sha1(flag).hexdigest()
+global flag ## Warning: Unused global

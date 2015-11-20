@@ -1,0 +1,21 @@
+﻿Project Reference:
+K - the key
+K[i] - the i-th byte in the key
+K[i,j,k] - the sum of bytes i,j and k in the key
+K[i...j] - the sum of bytes i,i+1,i+2,...,j in the key
+
+S - permutation (S_N - the final permutation at the end of the KSA) (capital S)
+S_r - the value of S after r steps in the KSA have been executed
+
+C_i - >< S[i] - (i*(i+1))/2 ><  --> with high prob it is equal to K[0...i]
+___
+C_i - >< S^(-1)[i] - (i*(i+1))/2 >< --> alternative value for K[0...i], S^(-1) is the reverse of S (?)
+ 
+l - length of the key K
+s - sum of key bytes K[0...l-1] (this is a small s)
+
+{\delta} - predicted error if S_r[r]!=r during our calculations. estimated as equal to (S_r[r] - r) or exactly as ( C_i2 - C_i1 - K[i1+1...i2] ) delta can be used to correct equations when discovered.
+
+{\lambeda}_t - number of guesses to try at stage t (0 corresponds to the full key weight) - defined at the end of section 4.2
+
+{\mu}_t - the lowest weight (~probability) for a guess that we'll still try and use. otherwise we'll just backtrack and try another guess

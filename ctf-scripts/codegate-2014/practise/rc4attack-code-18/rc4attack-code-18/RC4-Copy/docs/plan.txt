@@ -1,0 +1,21 @@
+﻿ done    deadline    milestone															
+******  **********  ***********															
+   X    01.04.2009  Establish Work Environment (SVN, mingw, eclipse, test server)		
+   X    15.04.2009  Understand and Implement RC4 Cipher Class							
+        01.05.2009  Build Test Data-Set													
+        15.05.2009  Read and Fully understand the details of paper						
+        01.06.2009  Implement Algorithm (as is)											
+        01.07.2009  Get baseline performance based on our data-set						
+(Moed A exams)
+        15.08.2009  Optimizations \ Improvements										
+        01.09.2009  Write final presentation and documents								
+        07.09.2009  Present our findings and results									
+
+        
+        - Change code to C.
+        - Implement algorithm:
+        - Build C_i.
+        - Check probabilities of C_i.
+        - 40bit key.
+        - 
+        
